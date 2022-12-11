@@ -14,7 +14,7 @@
 
 ___
 
-## About me <img src="https://media4.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif?cid=ecf05e47jhumyadnzsq2p0ms70naucdcfuxfz09ogbfmpjbn&rid=giphy.gif&ct=s" width="35" style="position: absolute; margin-left: 5px;">
+## About me <img src="https://img.icons8.com/color/512/gender-neutral-user.png" width="35" style="position: absolute; margin-left: 5px;">
 >* **Name:** AMGG13
 >* **Where:** Spain 🇪🇸
 >* **Current situation:** Studying Web development🎓
