@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on learn more :)
 - 🌱 I’m currently learning PHP, Angular and Bootstrap
-- 📫 How to reach me: [Gmail](mailto:alvinmillergarciagarcia@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alvin-garc%C3%ADa-31947a1b6/)
+- 📫 How to reach me: [Gmail](mailto:alvinmillergarciagarcia@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alvin-garcia-garcia-31947a1b6/)
 
     
 
