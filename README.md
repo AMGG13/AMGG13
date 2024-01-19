@@ -31,8 +31,8 @@ ___
 >* <img src="https://img.icons8.com/fluency/512/angularjs.png" width="30"> Angular
 >* <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="30"> Next.js
 >* <img src="https://banner2.cleanpng.com/20180410/dbq/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac24ced243.4761515415233628528472.jpg" width="30"> React
->* >* <img src="https://img.icons8.com/fluency/512/laravel.png" width="30"> Laravel
->  >* >* <img src="https://img.icons8.com/fluency/512/node-js.png" width="30"> Express
+>* <img src="https://img.icons8.com/fluency/512/laravel.png" width="30"> Laravel
+>* <img src="https://img.icons8.com/fluency/512/node-js.png" width="30"> Express
 >* <img src="https://img.icons8.com/color/512/bootstrap.png" width="30"> Bootstrap
 >* <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="30"> Tailwind
 >* <img src="https://img.icons8.com/dusk/512/database-restore.png" width="30"> BBDD
@@ -44,7 +44,7 @@ ___
 >* <img src="https://img.icons8.com/fluency/512/c-sharp-logo.png" width="30"> C#
 
 ## Frameworks to learn list <img src ="https://img.icons8.com/officel/512/learning.png" width="30">
->* <img src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png" width="30"> React
+>* <img src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png" width="30"> SpringBoot
 
 <br>
 <hr>
