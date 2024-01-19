@@ -7,7 +7,7 @@
 <hr>
 
 - 🔭 I’m currently working on learn more :)
-- 🌱 I’m currently learning PHP, Angular and Bootstrap
+- 🌱 I’m currently learning Angular and SpringBoot
 - 📫 How to reach me: [Gmail](mailto:alvinmillergarciagarcia@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alvin-garcia-garcia-31947a1b6/)
 
     
@@ -21,6 +21,7 @@ ___
 >* **Interests:**
 >   * Games
 >   * Learn about technology
+>   * I prefer typed programming languages.
 ## Knowledge <img src="https://img.icons8.com/external-rabit-jes-outline-color-rabit-jes/2x/external-knowledge-education-rabit-jes-outline-color-rabit-jes.png" width="30" style="position: absolute;">
 > * <img src="https://img.icons8.com/fluency/512/java-coffee-cup-logo.png" width="30"> Java
 >* <img src="https://img.icons8.com/color/512/javascript.png"  width="30"> JavaScript
