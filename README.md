@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Angular and SpringBoot
 - 📫 How to reach me: [Gmail](mailto:alvinmillergarciagarcia@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alvin-garcia-garcia-31947a1b6/)
 - 💼 [Portfolio](https://portfolio-amgg13.vercel.app/)
+- 🗒️ [Blog](https://devlog-amgg.vercel.app/)
 
     
 
