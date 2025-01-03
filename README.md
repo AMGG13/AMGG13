@@ -1,13 +1,13 @@
 <div id="presentation" align="center">
     <img src="https://img.icons8.com/color/2x/programming.png" width="100">
     <h1>Hello I'm AMGG13 👋</h1>
-    <h3 align="left"> I am a <strong>web developer student</strong> and I dedicate myself to <strong>programming and playing games</strong> in my spare time. I like computing, especially the <strong>programming and cybersecurity</strong> section.
+    <h3 align="left"> I am a <strong>web developer</strong> and I dedicate myself to <strong>programming and playing games</strong> in my spare time. I like computing, especially the <strong>programming and cybersecurity</strong> section.
     </h3>
 </div>
 <hr>
 
 - 🔭 I’m currently working on learn more :)
-- 🌱 I’m currently learning Angular and SpringBoot
+- 🌱 I’m currently learning SpringBoot
 - 📫 How to reach me: [Gmail](mailto:alvinmillergarciagarcia@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alvin-garcia-garcia-31947a1b6/)
 - 💼 [Portfolio](https://portfolio-amgg13.vercel.app/)
 - 🗒️ [Blog](https://devlog-amgg.vercel.app/)
